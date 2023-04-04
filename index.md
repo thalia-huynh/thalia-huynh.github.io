@@ -9,8 +9,6 @@
 <img src="images/1677098908347.jpeg?raw=true"/><img src="images/1677098891905.jpeg?raw=true"/>
 <img src="images/1677098863668.jpeg?raw=true"/><img src="images/1676838953709.jpeg?raw=true"/>
 
----
-
 
 
 
