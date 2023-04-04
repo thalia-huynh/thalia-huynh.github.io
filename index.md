@@ -2,28 +2,12 @@
 
 ---
 
-### Category Name 1 
+### Predicting Depression Using NLP
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Project 1 Title](https://github.com/thalia-huynh/predicting-depression-using-nlp)<br>
+<img src="images/1677202991123.jpeg?raw=true"/><img src="images/1677202949386.jpeg?raw=true"/>
+<img src="images/1677098908347.jpeg?raw=true"/><img src="images/1677098891905.jpeg?raw=true"/>
+<img src="images/1677098863668.jpeg?raw=true"/><img src="images/1676838953709.jpeg?raw=true"/>
 
 ---
 
